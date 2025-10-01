@@ -6,3 +6,8 @@
     background: var(--primary);
     color: white;
 }
+
+#miplayer {
+    width: 100%;
+    height: auto;
+}
